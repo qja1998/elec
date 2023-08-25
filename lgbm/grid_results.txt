@@ -1,0 +1,400 @@
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 0 SMAPE : 3.6632282659319673
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 1 SMAPE : 4.870857996104611
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 2 SMAPE : 7.7938060855765805
+{'colsample_bytree': 0.5, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 3 SMAPE : 2.7547455437534802
+{'colsample_bytree': 0.7, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 4 SMAPE : 5.050990179537324
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 5 SMAPE : 2.1656571606858797
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 6 SMAPE : 5.127985653757655
+{'colsample_bytree': 0.5, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 7 SMAPE : 2.774387568233452
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 8 SMAPE : 1.8264818995245107
+{'colsample_bytree': 0.3, 'max_depth': 1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 9 SMAPE : 4.065356324845513
+{'colsample_bytree': 0.7, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 10 SMAPE : 1.9140805353670114
+{'colsample_bytree': 0.5, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 11 SMAPE : 2.2489590717157
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 12 SMAPE : 2.8748286266161003
+{'colsample_bytree': 0.7, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 13 SMAPE : 8.991774517115388
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 14 SMAPE : 1.3930649556298433
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 15 SMAPE : 2.687314896188454
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 16 SMAPE : 3.116626810780137
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 17 SMAPE : 3.540868169735425
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 18 SMAPE : 4.429315963178685
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 19 SMAPE : 2.7400693670327856
+{'colsample_bytree': 0.5, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 20 SMAPE : 4.124016395207243
+{'colsample_bytree': 0.7, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 21 SMAPE : 2.237548631753068
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 22 SMAPE : 0.7729345173282297
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 23 SMAPE : 1.3952569562263353
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 24 SMAPE : 1.1617138446765005
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 25 SMAPE : 1.045639569406588
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 26 SMAPE : 0.7841174507180723
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 27 SMAPE : 4.065827157863184
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 28 SMAPE : 2.3925639961136005
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 29 SMAPE : 3.514945850086838
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 30 SMAPE : 3.0646395527975274
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 31 SMAPE : 0.2067872075217619
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 32 SMAPE : 0.2432961389794415
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 33 SMAPE : 0.40742165965548355
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 34 SMAPE : 0.19230562511519825
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 35 SMAPE : 0.3669001608724785
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 36 SMAPE : 2.546776566442832
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 37 SMAPE : 3.1770873029122044
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 38 SMAPE : 3.7101191890746827
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 39 SMAPE : 7.217871409736583
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 40 SMAPE : 2.5218233414388975
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 41 SMAPE : 6.81485523279513
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 42 SMAPE : 3.0756057191456696
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 43 SMAPE : 2.793866286851555
+{'colsample_bytree': 0.5, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 44 SMAPE : 1.2105994351688
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 45 SMAPE : 2.5416967047533006
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 46 SMAPE : 2.36722199951909
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 47 SMAPE : 0.9474243826083266
+{'colsample_bytree': 0.5, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 48 SMAPE : 1.834594846444185
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 49 SMAPE : 1.521636103909581
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 50 SMAPE : 2.229671824408328
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 51 SMAPE : 1.9806435148407149
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 52 SMAPE : 4.865336237445783
+{'colsample_bytree': 0.7, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 53 SMAPE : 11.387390772684384
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 54 SMAPE : 0.8238026963375823
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 55 SMAPE : 0.39375266476932913
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 56 SMAPE : 2.5966834831835355
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 57 SMAPE : 0.23111963094393528
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 58 SMAPE : 3.3402263337597287
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 59 SMAPE : 3.394599496677981
+{'colsample_bytree': 0.7, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 60 SMAPE : 2.5533286331256986
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 61 SMAPE : 2.4650546345825104
+{'colsample_bytree': 0.7, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 62 SMAPE : 2.8444991895308287
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 63 SMAPE : 2.016578795932385
+{'colsample_bytree': 0.7, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 64 SMAPE : 4.321365421640161
+{'colsample_bytree': 0.5, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 65 SMAPE : 1.8942702620038256
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 66 SMAPE : 3.488872667095321
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 67 SMAPE : 2.1206454490288453
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 68 SMAPE : 1.504244056949736
+{'colsample_bytree': 0.3, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 69 SMAPE : 5.64131762876455
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 70 SMAPE : 2.0124442902434323
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 71 SMAPE : 2.305109518085623
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 72 SMAPE : 1.5924201245479996
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 73 SMAPE : 2.8638317690690704
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 74 SMAPE : 2.717040618315056
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 75 SMAPE : 2.2168323794682636
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 76 SMAPE : 1.4175948294151837
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 77 SMAPE : 1.7495746794538587
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 78 SMAPE : 1.2480733683931418
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 79 SMAPE : 2.3144868046970006
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 80 SMAPE : 1.9088849444350557
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 81 SMAPE : 2.173997739694309
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 82 SMAPE : 1.5389259199982306
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 83 SMAPE : 1.636284879822206
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 84 SMAPE : 1.6217130883659552
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 85 SMAPE : 4.597246379652488
+{'colsample_bytree': 0.5, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 86 SMAPE : 6.03408510035925
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 87 SMAPE : 5.199597368752501
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 88 SMAPE : 5.661476045702547
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 89 SMAPE : 5.152782140740125
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 90 SMAPE : 6.166844682287281
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 91 SMAPE : 3.498990102470359
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 92 SMAPE : 3.1689194437487536
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 93 SMAPE : 3.133935397889894
+{'colsample_bytree': 0.5, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 94 SMAPE : 8.049469712258313
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 95 SMAPE : 1.4936960023994523
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 96 SMAPE : 2.876167272199731
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 97 SMAPE : 6.515600867759426
+{'colsample_bytree': 0.7, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 98 SMAPE : 1.881071727487917
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 99 SMAPE : 2.7253943027717655
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 1 SMAPE : 3.496838115858892
+{'colsample_bytree': 0.7, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 2 SMAPE : 4.78111065463158
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 3 SMAPE : 8.169854709060068
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 4 SMAPE : 2.843422525520898
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 5 SMAPE : 3.9812868071429786
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 6 SMAPE : 2.1078021104355886
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 7 SMAPE : 4.804357836817208
+{'colsample_bytree': 0.5, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 8 SMAPE : 2.702209416308628
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 9 SMAPE : 1.7600760395071295
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 10 SMAPE : 4.398057569822615
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 11 SMAPE : 1.8077688526117432
+{'colsample_bytree': 0.7, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 12 SMAPE : 2.583490226799186
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 13 SMAPE : 2.974776601203813
+{'colsample_bytree': 0.5, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 14 SMAPE : 8.529045078459593
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 15 SMAPE : 1.4274961735929843
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 16 SMAPE : 2.59127614339733
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 17 SMAPE : 2.926297155486897
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 18 SMAPE : 3.9195745247750673
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 19 SMAPE : 4.309161437462718
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 20 SMAPE : 2.9496020931424014
+{'colsample_bytree': 0.5, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 21 SMAPE : 4.3652948544511645
+{'colsample_bytree': 0.5, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 22 SMAPE : 2.415417691802289
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 23 SMAPE : 0.7844740549505451
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 24 SMAPE : 1.321076338422224
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 25 SMAPE : 1.0598633515846485
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 26 SMAPE : 1.1793235411943481
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 27 SMAPE : 0.7730311391339046
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 28 SMAPE : 2.8817803685071173
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 29 SMAPE : 2.238390281817179
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 30 SMAPE : 3.130791913828905
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 31 SMAPE : 2.950720065337536
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 32 SMAPE : 0.18757438794110837
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 33 SMAPE : 0.21801277338236177
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 34 SMAPE : 0.380273746965843
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 35 SMAPE : 0.1952419717509735
+{'colsample_bytree': 0.3, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 36 SMAPE : 0.3776933822617481
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 37 SMAPE : 2.7663105723790573
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 38 SMAPE : 3.081387406749319
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 39 SMAPE : 3.539912476230177
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 40 SMAPE : 6.1680504563631215
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 41 SMAPE : 2.3692555468465666
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 42 SMAPE : 6.578832812858199
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 43 SMAPE : 2.9172280044696985
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 44 SMAPE : 2.84698837113129
+{'colsample_bytree': 0.3, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 45 SMAPE : 1.3767759078381818
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 46 SMAPE : 2.4908952442570436
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 47 SMAPE : 2.7326541290283317
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 48 SMAPE : 1.0944970030650845
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 49 SMAPE : 1.5113591273737668
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 50 SMAPE : 1.4600648816041066
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 51 SMAPE : 2.200972997057655
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 52 SMAPE : 1.8990323767052557
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 53 SMAPE : 5.205589195881685
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 54 SMAPE : 10.304000659533356
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 55 SMAPE : 0.8065805598449618
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 56 SMAPE : 0.38064160870823144
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 57 SMAPE : 2.392148963766255
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 58 SMAPE : 0.22488593431674678
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 59 SMAPE : 3.3479559909648438
+{'colsample_bytree': 0.7, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 60 SMAPE : 3.344396479585016
+{'colsample_bytree': 0.7, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 61 SMAPE : 2.257164089708246
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 62 SMAPE : 2.5055866558138424
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 63 SMAPE : 2.808613125538613
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 64 SMAPE : 2.0529306312665514
+{'colsample_bytree': 0.5, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 65 SMAPE : 4.392438631362344
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 66 SMAPE : 1.9099669403196142
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 9, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 67 SMAPE : 3.2237893165615357
+{'colsample_bytree': 0.9000000000000001, 'max_depth': -1, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 68 SMAPE : 2.0853767650927963
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 69 SMAPE : 1.5514324494674603
+{'colsample_bytree': 0.3, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 70 SMAPE : 5.0484517641751765
+{'colsample_bytree': 0.7, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 71 SMAPE : 2.14478320087621
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 72 SMAPE : 2.4012162745126124
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 73 SMAPE : 1.559138111370617
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 74 SMAPE : 2.893375286494745
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 75 SMAPE : 2.733924643090622
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 3, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 76 SMAPE : 2.3811689029250136
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 77 SMAPE : 1.3310033759605389
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 78 SMAPE : 1.7817340679782894
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 79 SMAPE : 1.2338375975988711
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 80 SMAPE : 2.3299672876765625
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 81 SMAPE : 1.8383002632836956
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 82 SMAPE : 2.216370435599105
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 83 SMAPE : 1.4268650009105175
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 84 SMAPE : 1.5921325974260727
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 85 SMAPE : 1.6327827499139593
+{'colsample_bytree': 0.5, 'max_depth': 2, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 86 SMAPE : 3.697619386917371
+{'colsample_bytree': 0.5, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 87 SMAPE : 6.06346613329641
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 88 SMAPE : 4.54568391558537
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 89 SMAPE : 4.939321219543967
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 90 SMAPE : 5.528166138740553
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 91 SMAPE : 6.24635138419093
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 92 SMAPE : 3.2009061487968586
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 93 SMAPE : 3.0453636855989252
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 8, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 94 SMAPE : 3.246198666670609
+{'colsample_bytree': 0.5, 'max_depth': 7, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 95 SMAPE : 8.217890964924122
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 96 SMAPE : 1.522923435608676
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 6, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 97 SMAPE : 2.766735890103236
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 4, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 98 SMAPE : 7.038736584309787
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 99 SMAPE : 1.6209187479825087
+{'colsample_bytree': 0.9000000000000001, 'max_depth': 5, 'min_child_weight': 0.0001, 'n_estimators': 100, 'subsample': 0.5}
+Building 100 SMAPE : 2.767546576865924
